@@ -1,0 +1,9 @@
+torch>=1.9.0
+torchvision
+torchaudio
+opencv-python
+mediapipe
+numpy
+scipy
+scikit-learn
+cupy-cuda11x  # GPU 가속용 (선택사항)
